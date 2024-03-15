@@ -16,7 +16,7 @@ This To-Do Task pplication is built using Node.js, Express, MongoDB, and JWT for
    
    If you have Git installed, you can clone the repository using the following command:
     ```
-    git clone https://your-repository-url-here.git
+    git clone https://github.com/skyfusion89/todo-task.git
     ```
     Alternatively, you can download the source code directly from the repository page.
 
